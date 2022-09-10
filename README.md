@@ -1,7 +1,7 @@
-# ZELDA USERBOT TELEGRAM
+# Z USERBOT TELEGRAM
 
 <p align="center">
-   <img src="https://telegra.ph/file/860471ce923e76160ae31.jpg" width=350px>
+  <img src="https://telegra.ph/file/198cdef858f7455c6cd64.jpg">" width=350px>
    <br>
    <br>
 </p>
@@ -9,7 +9,7 @@
 <h3 align="center">Userbot Yang Di Buat Karena Sering Gabut Di Telegram.</h3>
 <p align="center">&nbsp;</p>
 
-ZELDA USERBOT adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+Z USERBOT adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -33,11 +33,11 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <a href="https://replit.com/@fhmyngrh/Zelda-String-Session"><img src="https://img.shields.io/badge/RUN-Get__String-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ### Deoloy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nmiabdfhmy/Zelda-Userbot-Dep)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayazean/Z-Ubot-Dep)
 
 ## Updates dan support
 
-Follow Channel [@ZeldaProjects](https://t.me/zeldaprojects) untuk info Update bot dan Gabung Group [@UnrealBabies](https://t.me/UnrealBabies) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Zelda-Userbot.
+Follow Channel [@ZeanSupport](https://t.me/ZeanSupport) untuk info Update bot dan Gabung Group [@urbansexidy](https://t.me/urbansexidy) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Z-Ubot.
 
 ## © Credits
 #### Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
