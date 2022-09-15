@@ -42,10 +42,10 @@ for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
 LOGS.info(
-    f"Jika {ALIVE_NAME} Membutuhkan Bantuan, Silahkan Tanyakan ke @UnrealZelda"
+    f"Jika {ALIVE_NAME} Membutuhkan Bantuan, Silahkan Tanyakan ke @zeannihboss"
 )
 
-LOGS.info(f"ZELDA USERBOT ⚙️ V{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
+LOGS.info(f"Z USERBOT ⚙️ V{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
 
 
 async def man_userbot_on():
@@ -53,12 +53,12 @@ async def man_userbot_on():
         if BOTLOG_CHATID != 0:
             await bot.send_message(
                 BOTLOG_CHATID,
-                f"🔥 **ZELDA USERBOT V{BOT_VER} Telah Aktif!**",
+                f"🔥 **Z USERBOT V{BOT_VER} Telah Aktif!**",
             )
     except Exception as e:
         LOGS.info(str(e))
     try:
-        await bot(JoinChannelRequest("@ZeldaProjects"))
+        await bot(JoinChannelRequest("@ZeannProject"))
     except BaseException:
         pass
     try:
